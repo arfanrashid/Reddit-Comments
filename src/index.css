@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.comment-title{
+  color:#BC2D6D;
+}
+.user-name {
+  font-size: 14px;
+  color: gray;
+}
+.post-time{
+  color: gray;
+}
+.post-user{
+  color: black;
+}
+.post-content{
+  font-size: 24px;
+}
+.comment-line{
+  color: gray;
+  font-size: 18px;
+  
+}
+.bottom-line{
+  text-align: right;
+  width: 98%;
+}
+.comment-link{
+  color:#5290F4;
+  font-size: 19px;
+}
+.button{
+  background-color: #1C80C7;
+}
+.button:hover{
+  background-color: rgb(16, 60, 88);
+}
+
